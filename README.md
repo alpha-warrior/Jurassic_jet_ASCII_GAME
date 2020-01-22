@@ -5,7 +5,7 @@
 ## About :-
 ```
 Jetpack Joyride is a 2011 side-scrolling endless runner action video game created by Halfbrick Studios. The game features the same protagonist from Monster Dash, Barry Steakfries, who the player controls as he steals a jet pack from a top-secret laboratory. The game has been met with very favorable reviews, and has won numerous awards. 
-This is a terminal version of the 'Super Mario Bros' game. It exhibits Object-Oriented Programming concepts like encapsulation, inheritance, abstraction and polymorphism.
+It exhibits Object-Oriented Programming concepts like encapsulation, inheritance, abstraction and polymorphism.
 ```
 ## Pre-requisites :-
 ```
